@@ -1,0 +1,9 @@
+id_rsa*
+
+*.ilk
+*.o
+*.exe
+*.pdb
+*.obj
+
+.vscode
